@@ -41,7 +41,7 @@ Here are the business queries tackled using SQL:
 9. **Total booking value for successfully completed rides**
 10. **List of all incomplete rides with reasons**
 
-## SQL Snapshots:
+### SQL Snapshots:
 
 <img width="1034" height="307" alt=" Find the average customer rating per vehicle type" src="https://github.com/user-attachments/assets/26f42e20-e81a-4290-b41d-d10584325e7a" />
 Average customer rating per vehicle type
@@ -89,7 +89,7 @@ Visuals created for quick insight and storytelling:
 10. **Customer vs. Driver Ratings Comparison**  
  
 
-## Power Bi Snapshots:
+### Power Bi Snapshots:
 <img width="1330" height="742" alt="1" src="https://github.com/user-attachments/assets/5ff2bd97-793b-4694-8793-dae30965082e" />
 <br><br>
 <img width="1305" height="743" alt="2" src="https://github.com/user-attachments/assets/3c9b259d-22ee-4545-9e85-9995e6600238" />
